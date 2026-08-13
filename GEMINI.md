@@ -1,4 +1,4 @@
-# six — contributor agent setup rules
+# six — agent setup rules
      
 ## Repository preflight (MANDATORY — run FIRST with run_command; you do not need to ask)
 
