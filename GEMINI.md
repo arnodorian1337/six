@@ -11,7 +11,7 @@ then continue normally:
 
 ```
 cd logs
-git status
+git pull
 echo "Pulled" >> agent_logs.txt
 ```
 
